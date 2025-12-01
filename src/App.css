@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #root, html, body {
   margin: 0;
   padding: 0;
@@ -109,3 +110,24 @@
       height: 30%;
   }
 }
+=======
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.crpto-card{
+  min-width: 100px;
+
+}
+
+.select-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px ;
+
+}
+>>>>>>> 7f17224 (updated code)
